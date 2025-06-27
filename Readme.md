@@ -4,7 +4,7 @@
 
 ![VehiculeSoft Logo](img/logo1.png)
 
---
+
 
 ## 🚀 Características
 
@@ -13,7 +13,7 @@
 - ❌ **Salir del Programa**: Opción para cerrar la sesión o salir del sistema.
 - 📱 **Diseño responsive** gracias a Bootstrap.
 
---
+
 
 ## 🛠️ Tecnologías Utilizadas
 
@@ -27,6 +27,6 @@
 Jonathan Rodríguez
 GitHub: @jonaaxsic
 
---
+
 
 
