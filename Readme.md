@@ -28,7 +28,7 @@
 ## 👨‍💻 Autor
 
 Jonathan Rodríguez
-GitHub: @jonaaxsic
+[![GitHub](https://img.shields.io/badge/GitHub-Jonaaxsic-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jonaaxsic)
 
 
 
